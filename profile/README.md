@@ -1,4 +1,4 @@
-# Tunabl - Ahoy! 👋
+# Tunabl
 
 Welcome to Tunabl, the app for discovering your next favorite song.
 
